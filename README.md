@@ -1,7 +1,7 @@
 
 ---
 
-# Integrated Help Desk System | PT Bakti Timah Medika 🏥💻
+# Help Desk System | PT Bakti Timah Medika 🏥💻
 
 **PT Bakti Timah Medika** is a healthcare company managing 4 hospitals and 7 clinics across the Bangka Belitung Province. To enhance internal service efficiency and communication, I developed a **web-based Help Desk system** that centralizes and streamlines service requests from all departments, with a particular focus on IT and General Affairs (GA) teams.
 
@@ -12,20 +12,20 @@ The **Integrated Help Desk System** allows PT Bakti Timah Medika's internal team
 ## Key Features 🔑
 
 * **Task Management with Kanban**: Organize service requests using a Kanban board for easy tracking and management of tasks.
-* **Ticket-Based System**: Replaced emails and WhatsApp messages with a structured ticketing system, ensuring every request is traceable and manageable.
+* **Ticket-Based System**: Replaced emails messages with a structured ticketing system, ensuring every request is traceable and manageable.
 * **Ticket Categorization & Assignment**: Categorized tickets into different service types and assigned them to appropriate teams for faster resolution.
-* **Deadline Management**: Added features to set and track deadlines for tasks, improving task prioritization and on-time resolution.
+* **Report Ticket**: Provides detailed ticket reports based on status, category, department, and resolution time to support performance analysis and service evaluation.
 
 ## Technologies Used 🛠️
 
-* **Backend**: CodeIgniter 3
+* **Backend**: CodeIgniter 4
 * **Frontend**: AJAX for dynamic and seamless user interaction
 * **Database**: MySQL for structured and secure data management
 
 ## Key Responsibilities 👨‍💻
 
 * **System Design & Implementation**: Designed and implemented the task management system using the Kanban method, tailored for service request management.
-* **Backend Development**: Developed the backend using **CodeIgniter 3** and ensured smooth integration with the frontend using **AJAX**.
+* **Backend Development**: Developed the backend using **CodeIgniter 4** and ensured smooth integration with the frontend using **AJAX**.
 * **Feature Development**: Created features for ticket categorization, assignment workflows, and deadline management to enhance task distribution and resolution efficiency.
 * **User Interface**: Optimized the user experience to ensure better navigation and faster issue resolution for IT and GA teams.
 
